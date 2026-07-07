@@ -6,7 +6,7 @@ A modern, responsive **Furniture E-Commerce Website** built using **HTML, CSS, a
 
 ## Live Demo
 
-🔗 https://your-live-demo-link.vercel.app
+🔗 task9-web-fentixtech.vercel.app
 
 ---
 
@@ -91,22 +91,6 @@ Furniture-Ecommerce/
 
 ---
 
-# 🚀 How to Run
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/yourusername/furniture-ecommerce.git
-```
-
-2. Open the project folder.
-
-3. Launch `index.html` in your browser.
-
-No installation or dependencies are required.
-
----
-
 # 🎯 Learning Outcomes
 
 * DOM Manipulation
@@ -122,7 +106,12 @@ No installation or dependencies are required.
 
 # 📸 Preview
 
-Add screenshots of the homepage here.
+<img width="1426" height="764" alt="image" src="https://github.com/user-attachments/assets/a5e2c12a-268c-4c2d-92c1-2b2109e57896" />
+<img width="1304" height="926" alt="image" src="https://github.com/user-attachments/assets/2591bfcf-e68e-4b6b-8d51-4772deb6d5d3" />
+<img width="1261" height="753" alt="image" src="https://github.com/user-attachments/assets/d310383f-1c87-4439-adfe-a4718a096bb4" />
+<img width="1414" height="572" alt="image" src="https://github.com/user-attachments/assets/fdbc6cd6-1a23-48cc-a886-fbbd80c2dc59" />
+<img width="399" height="924" alt="image" src="https://github.com/user-attachments/assets/91e831b9-c00f-4146-8fc4-b23b8f53f9e8" />
+
 
 ---
 
